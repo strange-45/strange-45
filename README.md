@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **NodeJs**
 
-- 👨‍💻 All of my projects are available at [Abhay](strange-45)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/strange-45?tab=repositories)
 
 - 💬 Ask me about **Nodejs Java JavaScript**
 
