@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Nodejs Java JavaScript**
 
-- 📫 How to reach me [Mail](abhayraj.svm14@gmail.com)
+- 📫 How to reach me [abhayraj.svm14@gmail.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
